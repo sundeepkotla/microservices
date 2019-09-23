@@ -1,0 +1,4 @@
+# Project exclude paths
+/enviornamentprovisioner/target/
+/resourcemanager/target/
+/target/
